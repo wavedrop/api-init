@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "ApiInitKey",
+  "mongoLogDBName": "api-init"
+}
