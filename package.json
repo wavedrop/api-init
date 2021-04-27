@@ -1,0 +1,11 @@
+{
+  "name": "api-init",
+  "version": "1.0.0",
+  "description": "scaffold an express/mongo api with authentication, logging, and exception handling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Courtney",
+  "license": "ISC"
+}
